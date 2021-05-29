@@ -4641,3 +4641,8 @@ label {
 .mb-2 {
   margin-bottom: 2rem;
 }
+
+.mini-link {
+  font-size: small;
+  color: blue;
+}
